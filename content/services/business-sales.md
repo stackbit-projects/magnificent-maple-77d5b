@@ -4,7 +4,6 @@ icon: services/service-icon-3.png
 featured: true
 draft: false
 heroHeading: Business Sales
-heroSubHeading: We can help value your business and prepare it for sale.
 heroBackground: services/service1.jpg
 title: 'Custom Website Design '
 ---
