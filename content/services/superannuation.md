@@ -5,6 +5,5 @@ icon: services/service-icon-5.png
 featured: true
 draft: false
 heroBackground: services/service1.jpg
-heroSubHeading: About Us
 ---
 I can write engaging content that will bring your site a strong online presence.
