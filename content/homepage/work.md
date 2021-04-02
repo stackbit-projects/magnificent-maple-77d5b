@@ -2,7 +2,6 @@
 weight: 1
 background: images/kevin-bhagat-461952-unsplash.jpg
 button: About Us
-buttonLink: About Us
 ---
 I know that business owners like you, don’t want to spend a lot of money on a website-you just need a great looking and functional site.
 
