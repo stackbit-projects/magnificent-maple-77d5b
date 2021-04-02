@@ -5,5 +5,7 @@ weight: 1
 background: 'https://source.unsplash.com/zglUlG8k47I/1600x500'
 align: right
 ---
+Jennica has worked in the field of education since 2017. She taught in South Korea, Vancouver and Nanaimo. Her teaching experience has allowed Jennica to focus on organization, time management and clear communication. She has a strong ability to relate to and collaborate with others.
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+
+Jennica is well versed in template based website design and she enjoys the satisfaction of turning ideas into reality on a quick timeline.
