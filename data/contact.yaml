@@ -1,9 +1,8 @@
 email: jennica@backflipcreative.ca
 phone: XXXX XXX XXX
 businessName: Backflip Creative
-address: |
-  123 Some Street
-  City, State 12345
+address: |+
+
 hours:
   - day: Monday
     open: '8:30am'
