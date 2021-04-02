@@ -5,7 +5,9 @@ icon: services/service-icon-4.png
 featured: true
 draft: false
 heroHeading: Expedited Website Creation
-heroSubHeading: Thinking of acquiring another business? Let us guide you through the process.
+heroSubHeading: >-
+  Using template based web designs, I can put together a high quality website
+  for you in a few days.
 heroBackground: services/service2.jpg
 ---
 
