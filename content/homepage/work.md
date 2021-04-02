@@ -2,5 +2,7 @@
 weight: 1
 background: images/kevin-bhagat-461952-unsplash.jpg
 ---
+I know that business owners like you, don’t want to spend a lot of money on a website-you just need a great looking and functional site.
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+
+Using smart tools to deliver high quality websites on minimal budgets, and with extremely quick turnarounds, I am dedicated to making you a website you can be proud of.
